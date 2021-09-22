@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-82.5" y="-6.0">project2</node>
+    <node x="-68.5" y="-6.0">com</node>
+    <node x="-84.5" y="-6.0">netscape</node>
+    <node x="-99.5" y="-6.0">javastudyone</node>
+    <node x="-104.0" y="-6.0">Javastudylast2</node>
+    <node x="-132.5" y="-6.0">toolbarButtonGraphics</node>
+    <node x="-66.0" y="-6.0">sun</node>
+    <node x="-101.0" y="-6.0">javastudyplus</node>
+    <node x="-85.0" y="-6.0">datetime</node>
+    <node x="-109.5" y="-6.0">groovyjarjarasm</node>
+    <node x="-81.0" y="-6.0">Exercise</node>
+    <node x="-85.5" y="-6.0">exercise4</node>
+    <node x="-67.5" y="-6.0">java</node>
+    <node x="-85.5" y="-6.0">exercise3</node>
+    <node x="-71.0" y="-6.0">javax</node>
+    <node x="-118.0" y="-6.0">groovyjarjarpicocli</node>
+    <node x="-111.0" y="-6.0">javastudymiddle</node>
+    <node x="-90.0" y="-6.0">seasontest</node>
+    <node x="-103.0" y="-6.0">javastudylast3</node>
+    <node x="-78.5" y="-6.0">images</node>
+    <node x="-69.5" y="-6.0">junit</node>
+    <node x="-82.5" y="-6.0">question</node>
+    <node x="-66.0" y="-6.0">org</node>
+    <node x="-96.0" y="-6.0">hellowworld</node>
+    <node x="336.5" y="-254.0">stringclass</node>
+    <node x="311.0" y="85.0">threeusuallyclass</node>
+    <node x="-149.5" y="31.0">javaCollection</node>
+    <node x="440.0" y="-15.0">Annotation</node>
+    <node x="394.5" y="-200.0">Thread</node>
+    <node x="-155.0" y="-175.0">jdk</node>
+    <node x="411.0" y="-109.0">META-INF</node>
+    <node x="199.0" y="31.0">Thread2</node>
+    <node x="-13.0" y="94.0">javastudylast</node>
+    <node x="234.0" y="-33.0">groovy</node>
+    <node x="14.5" y="-200.0">groovyjarjarcommonscli</node>
+    <node x="277.0" y="-115.0">Exercise2</node>
+    <node x="71.0" y="-106.0">comparable</node>
+    <node x="-124.5" y="-106.0">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="分层" zoom="1.0" showDependencies="false" x="227.0" y="-23.5" />
+  <SelectedNodes>
+    <node>project2</node>
+    <node>com</node>
+    <node>netscape</node>
+    <node>javastudyone</node>
+    <node>Javastudylast2</node>
+    <node>toolbarButtonGraphics</node>
+    <node>sun</node>
+    <node>javastudyplus</node>
+    <node>datetime</node>
+    <node>groovyjarjarasm</node>
+    <node>Exercise</node>
+    <node>exercise4</node>
+    <node>java</node>
+    <node>exercise3</node>
+    <node>javax</node>
+    <node>groovyjarjarpicocli</node>
+    <node>javastudymiddle</node>
+    <node>seasontest</node>
+    <node>javastudylast3</node>
+    <node>images</node>
+    <node>junit</node>
+    <node>question</node>
+    <node>org</node>
+    <node>hellowworld</node>
+    <node>groovy</node>
+    <node>groovyjarjarcommonscli</node>
+    <node>comparable</node>
+    <node>groovyjarjarantlr</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
