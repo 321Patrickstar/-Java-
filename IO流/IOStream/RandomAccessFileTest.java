@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 
 /**
+ * 这是我的一次修改
  * RandomAccessFile的使用
  * 1.RandomAccessFile直接继承于java.lang.Object类，实现了DataInput和DataOutput接口
  * mode r以只读的方式打开rw打开以便读取和写入 rwd打开以便读取和写入，同步文件的更新 rws同步文件的内容和元数据的更新
